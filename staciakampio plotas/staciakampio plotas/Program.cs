@@ -18,7 +18,7 @@ namespace staciakampio_plotas
             {
                 Console.WriteLine("Iveskite staciakampio ilgi:");
                 A = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("iveskite veiksma [+, -, /, *], arba exit");
+                Console.WriteLine("iveskite veiksma [*], arba exit");
                 veiksmas = Console.ReadLine();
                 Console.WriteLine("Iveskite staciakampio ploti:");
                 B = Convert.ToInt32(Console.ReadLine());
