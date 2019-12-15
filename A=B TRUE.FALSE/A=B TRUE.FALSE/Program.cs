@@ -22,16 +22,12 @@ namespace A_B_TRUE.FALSE
 
             {
                 Console.WriteLine("TRUE!");
-
-
                 Console.WriteLine("[ISEITI - e]");
                 //while (Console.ReadLine() != "e") ;
             }
             else
             {
                 Console.WriteLine("FALSE!");
-
-
                 Console.WriteLine("[ISEITI - e]");
                 //while (Console.ReadLine() != "e") ;
             }
