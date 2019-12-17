@@ -23,7 +23,7 @@ namespace _2_skaiciai_skirtumas_suma_dalyba
             Console.WriteLine("Skaiciu suma: " + (skaicius1 + skaicius2));
             Console.WriteLine("Skaiciu skirtumas: " + (skaicius1 - skaicius2));
             Console.WriteLine("Skaiciu sandauga: " + (skaicius1 * skaicius2));
-            Console.WriteLine("Skaiciu sandauga: " + (skaicius1 / skaicius2));
+            Console.WriteLine("Skaiciu skirtumas: " + (skaicius1 / skaicius2));
 
 
 

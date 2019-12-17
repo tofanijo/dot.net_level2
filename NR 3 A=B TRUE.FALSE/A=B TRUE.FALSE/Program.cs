@@ -18,6 +18,7 @@ namespace A_B_TRUE.FALSE
             
 
 
+            
             if(skaicius1 == skaicius2)
 
             {
